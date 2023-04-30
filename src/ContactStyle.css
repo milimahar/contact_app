@@ -1,0 +1,21 @@
+h1{
+    /* margin-left: 30% */
+}
+.status{
+    display: flex;
+    flex-direction: row;
+}
+.create_contact_Screen{
+    border: 2px solid black;
+    margin-bottom: 30px;
+    margin-left: 25%; 
+    
+}
+.save_contact{
+    margin-left: 50%;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    background-color: rgb(117, 109, 109);
+    width: 10%;
+    height: 30px;
+}
